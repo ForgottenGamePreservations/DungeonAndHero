@@ -1,12 +1,22 @@
 # Dungeon & Hero
 
-**Dungeon & Hero** is a 2013 feature phone RPG developed by **Fansigame Project (FGP)** in the style of classic titles like Final Fantasy and Dragon Quest. It features pixel art, turn-based combat, and dungeon exploration. Originally released as a Java ME game, it was later ported to Android.
+Step Back into the Golden Age of Mobile RPGs with **Dungeon & Hero**!
+
+Developed for Windows Mobile (!!NOT even Windows Phone!!), by the now defunct **CH Games** and used to be released in legacy android devices so old that modern Android devices cannot run it. **UNTIL NOW!**
+
+Step into the shoes of one of three classic, iconic heroes to turn the tide:
+
+⚔️ Sian the Knight: The ultimate powerhouse and frontline warrior.
+
+🏹 Shana the Elf Archer: Master of rapid, deadly, ranged critical strikes.
+
+🔮 Irene the Mage: Wielder of devastating and mystical magical spells.
+
+Featuring utterly charming retro character sprites, classic looping tunes, and pure, unfiltered 16-bit dungeon-crawling action, Dungeon & Hero delivers an authentic retro-inspired adventure. If you miss the legendary, addictive level-grind and the simplistic, tactile charm of late-2000s handheld RPGs, this is the ultimate throwback.
+
+Defeat the darkness, conquer the dungeons, and prove that heroes never truly go out of style!
 
 ![Dungeon wall tile](img/wall.png)
-
-## Story
-
-In a fantasy realm, a young adventurer must explore perilous dungeons, defeat monsters, and uncover a powerful ancient artifact before the forces of darkness can claim it. Along the way, they encounter companions, merchants, and mysterious characters who help - or hinder - their quest.
 
 ## Features
 
@@ -18,34 +28,13 @@ In a fantasy realm, a young adventurer must explore perilous dungeons, defeat mo
 - NPC interactions and side quests
 - Compact game suitable for low-end devices
 
-## Platforms
-
-| Platform | File |
-|----------|------|
-| Java ME (original) | `Dungeon And Hero.jar` |
-| Android (original FGP-signed) | `[FGP]Dungeon&Hero [o.1.0.0 - v.1.0.0].apk` |
-| Android (modern, API 21+) | `Dungeon And Hero (Modern Android).apk` |
-
-## Release Contents
-
-```
-res/
-├── README.md
-├── [FGP]Dungeon&Hero [o.1.0.0 - v.1.0.0].apk
-└── img/
-    └── wall.png
-```
-
 ## Credits
 
-- **Developer**: Fansigame Project (FGP)
+- **Developer**: CH Games
+- **Updated by**: FGP
 - **Original release year**: 2013
 - **Genre**: Turn-based RPG
 
-## Legacy
-
-The game was distributed on feature phone app stores and various Java game sites. As Java ME support declined, fan efforts preserved the game by repackaging it for Android. This repository serves as an archive of those preservation efforts.
-
 ## License
 
-All game assets and binaries are the property of Fansigame Project (FGP). This archive is provided for preservation purposes only.
+All game assets and binaries are the property of their respective owner. This archive is provided for preservation purposes only.
