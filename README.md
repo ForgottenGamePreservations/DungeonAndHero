@@ -20,10 +20,9 @@ Defeat the darkness, conquer the dungeons, and prove that heroes never truly go 
 
 ## Features
 
-- Classic turn-based RPG combat
+- Classic top down action RPG combat
 - Pixel art style inspired by 8-bit and 16-bit era games
 - Dungeon exploration with traps and puzzles
-- Equipment, item, and magic systems
 - Multiple enemy types and boss battles
 - NPC interactions and side quests
 - Compact game suitable for low-end devices
