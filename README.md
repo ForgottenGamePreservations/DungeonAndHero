@@ -16,7 +16,7 @@ Featuring utterly charming retro character sprites, classic looping tunes, and p
 
 Defeat the darkness, conquer the dungeons, and prove that heroes never truly go out of style!
 
-![Dungeon wall tile](assets/img/wall.png)
+![Dungeon wall tile](https://forgottengamepreservations.github.io/DungeonAndHero/assets/img/wall.png)
 
 ## Features
 
