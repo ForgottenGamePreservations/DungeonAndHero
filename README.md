@@ -27,6 +27,15 @@ Defeat the darkness, conquer the dungeons, and prove that heroes never truly go 
 - NPC interactions and side quests
 - Compact game suitable for low-end devices
 
+## Changes
+
+- Support modern Android devices (tested on Android 16)
+- Ads removed
+- Upscaled assets
+- Hold basic attack button to continously attack
+- EXP multiplier menu (up to x5)
+- Basic controller support (tested on Gamesir X2S - Type C)
+
 ## Credits
 
 - **Developer**: CH Games
