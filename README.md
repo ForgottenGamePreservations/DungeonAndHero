@@ -43,6 +43,11 @@ Defeat the darkness, conquer the dungeons, and prove that heroes never truly go 
 - **Original release year**: 2013
 - **Genre**: Turn-based RPG
 
+## Downloads
+
+- **Download Here**: [Click Here](https://github.com/ForgottenGamePreservations/DungeonAndHero/releases/download/Release/FGP.Dungeon.Hero.o.1.0.0.-.v.1.0.0.apk)
+- **GitHub**: [Click Here](https://github.com/ForgottenGamePreservations/DungeonAndHero)
+
 ## License
 
 All game assets and binaries are the property of their respective owner. This archive is provided for preservation purposes only.
