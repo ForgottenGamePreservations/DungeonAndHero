@@ -41,7 +41,7 @@ Defeat the darkness, conquer the dungeons, and prove that heroes never truly go 
 - **Developer**: CH Games
 - **Updated by**: FGP
 - **Original release year**: 2013
-- **Genre**: Turn-based RPG
+- **Genre**: Top down action RPG
 
 ## Downloads
 
